@@ -1,0 +1,4 @@
+List check = Partition.ofSize(numberss, 10);
+
+        System.out.println(Partition.ofSize(numberss, 10));
+        System.out.println(check.get(0));
